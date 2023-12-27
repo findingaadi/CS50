@@ -10,7 +10,7 @@ This was the first day of CS50 class, and the initial lecture was an introductio
 - ASCII chart can be used to map alphabets starting from 64 in decimal. It also got other symbols.
 
 This is the ASCII chart: 
-<img src="https://github.com/findingaadi/CS50/blob/main/Images/img1.png" width="500" height="100">
+<img src="https://github.com/findingaadi/CS50/blob/main/Images/img1.png">
 
 - This set of 8 bits = 1 byte is enough to represent characters upto 255, but if there are more than that, for example some languages have more than 255 characters or emojis, for this there is a solution where you add more than 1 byte to represent it.
 
@@ -26,6 +26,6 @@ This is the ASCII chart:
 
 - To introduce an algorithms concept, its like searching for contacts; how we would search an actual phonebook. this is to determine how search algorithm works.
 
-<img src="https://github.com/findingaadi/CS50/blob/main/Images/img2.png" width="500" height="100">
+<img src="https://github.com/findingaadi/CS50/blob/main/Images/img2.png">
 
 - The next part of the lecture was explaining the basic concepts such as loop, function, etc via a visually representing software called Scratch.
